@@ -1,4 +1,3 @@
-Welcome to My GitHub!
 👋 Hi there! I’m a passionate Data Analyst dedicated to turning raw data into actionable insights. With a strong foundation in Python, Excel, VBA macros, Power BI, and SQL, 
 I thrive on the challenge of analyzing complex datasets and uncovering trends that drive better business decisions.
 
